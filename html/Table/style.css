@@ -1,7 +1,9 @@
 .main{
     color: blue;
     margin: auto;
+    background-color: aqua;
 }
 .head{
     color: black;
+    background-color: darkviolet;
 }
